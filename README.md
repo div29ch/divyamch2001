@@ -1,7 +1,7 @@
-<!-- 🚗 TOP CAR BANNER -->
+<!-- 🚗 TOP ANIMATED CAR BANNER (SVG STYLE) -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Divyam%20%7C%20Car%20Enthusiast%20🏎️&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Divyam</h1>
@@ -17,7 +17,7 @@
 
 * 🔭 Building **Web + AI Projects**
 * 🌱 Learning **Advanced Backend & AI**
-* 🏎️ Obsessed with **Cars & Speed**
+* 🏎️ Passionate about **Cars & Speed**
 * 💬 Ask me about **React, Node.js, Python**
 
 ---
@@ -64,12 +64,12 @@
 
 ---
 
-<!-- 🚗 BOTTOM CAR BANNER -->
+<!-- 🚗 BOTTOM ANIMATED WAVE -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer" />
 </p>
 
 <p align="center">
-  🏎️ Fueled by Code & Cars 🚀
+  🏁 Built with Passion for Code & Cars
 </p>
