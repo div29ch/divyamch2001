@@ -1,18 +1,24 @@
-<h1 align="center">Hi 👋, I'm Divyam</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast</h3>
+<!-- 🚗 TOP CAR BANNER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Lover;Always+Learning+New+Things" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Divyam</h1>
+<h3 align="center">🚀 Full Stack Developer | 🏎️ Car Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Car+Lover+🏎️;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-* 🔭 I’m currently working on **Web Development & AI Projects**
-* 🌱 I’m learning **Advanced Backend & AI**
+* 🔭 Building **Web + AI Projects**
+* 🌱 Learning **Advanced Backend & AI**
+* 🏎️ Obsessed with **Cars & Speed**
 * 💬 Ask me about **React, Node.js, Python**
-* ⚡ Fun fact: *I love building cool & useful stuff*
 
 ---
 
@@ -58,6 +64,12 @@
 
 ---
 
+<!-- 🚗 BOTTOM CAR BANNER -->
+
 <p align="center">
-  ⭐️ From Divyam | Keep Building 🚀
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  🏎️ Fueled by Code & Cars 🚀
 </p>
